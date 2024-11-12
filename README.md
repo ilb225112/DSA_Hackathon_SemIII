@@ -4,6 +4,14 @@
 
 Create a program to manage a social network of users, where users can establish and query connections, find new friends based on shared contacts, and access various functionalities.
 
+## Team Members
+
+| SRN                | Name                             |
+|--------------------|----------------------------------|
+| PES1UG23CS166      | Chinmay Shivanand Muragod        |
+| PES1UG23CS167      | Chirag K M                       |
+| PES1UG23CS172      | Darshith M S                     |
+
 ### Functionalities:
 
 #### 1. Display Network Structure:
