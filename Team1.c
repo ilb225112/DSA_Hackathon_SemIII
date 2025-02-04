@@ -50,7 +50,7 @@ int main() {
     char name[50];
     char user1[50], user2[50];
 
-    network.users = (USERNODE*)malloc(sizeof(USERNODE) * 12);  
+    network.users = (USERNODE **)malloc(sizeof(USERNODE *) * 12);  
     network.capacity = 12;    //set total no. of nodes
 
     //=====================================                 MAIN MENU                 ==============================================================================
